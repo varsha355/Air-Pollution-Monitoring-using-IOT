@@ -20,4 +20,4 @@ Requirements:
 ->Test the setup by monitoring the air pollution levels using the MQ135 sensor and verifying that the data is being correctly transmitted to the web server and displayed on the web page.
 
 ->Overall, this project requires knowledge of electronics, programming, and web development. It can be a great learning opportunity for individuals interested in these areas.
-Regenerate response
+
